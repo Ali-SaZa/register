@@ -1,0 +1,18 @@
+{
+  "company_title": "Fanavaran artin ariya rad",
+  "title": "Register Form",
+  "button": {
+    "register": "Register"
+  },
+  "inputs": {
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "placeholder": "Enter"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Invalid email address",
+    "phone_format": "Phone number must start with 09 and be 11 digits long"
+  }
+}
